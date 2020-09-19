@@ -1,2 +1,2 @@
 # fizz-buzz
-Fizz-Buzz test developed in VanillaJS
+Fizz-Buzz test developed in VanillaJS.
